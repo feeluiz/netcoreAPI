@@ -2,7 +2,7 @@
     .NET CORE 3.0 Basic API
 </h1>
 
-Api simples para Cadastrar/Atualizar/Deletar produtos.
+BASIC CRUD OF PRODUCTS ENTITIE WITH .NET CODE/MONGODB.
 
 ## 📃️ Dependecias
 
@@ -12,4 +12,4 @@ Api simples para Cadastrar/Atualizar/Deletar produtos.
 
 ---
 
-by feeluiz  [repos](https://github.com/feeluiz/repositories)
+By feeluiz  [repos](https://github.com/feeluiz/repositories)
