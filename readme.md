@@ -4,7 +4,7 @@
 
 BASIC CRUD OF PRODUCTS ENTITIE WITH .NET CODE/MONGODB.
 
-## 📃️ Dependecias
+## 📃️ Dependecies
 
 - [.Net Core 3.0](https://dotnet.microsoft.com/download/dotnet-core/3.0)
 - [MongoDB.Driver](https://www.nuget.org/packages/mongodb.driver)
